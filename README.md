@@ -7,7 +7,9 @@ Script que lê e trabalha em cima de um determinado dataset.
 ## Tecnologias
 
 Linguagem principal - Java
+
 Compilador - Maven
+
 Biblioteca - Spark-core - https://spark.apache.org/
 
 Bibliotecas auxiliares:
